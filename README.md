@@ -8,6 +8,7 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 * [SpeedCrunch](https://speedcrunch.org) - Much better and extremely light calculator
 * [WinDirStat](https://windirstat.net) - Windows directory statistics, a.k.a. "what's eating up all my HDD"
 * [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) - Symlinks, hardlinks and junctions for NTFS using Explorer
+* [WinCDEmu](https://wincdemu.sysprogs.org/) - Image mounting FOSS
 ## multimedia
 * [foobar2000](http://foobar2000.org/) - Plays audio well
 * [Potplayer](https://potplayer.daum.net/) - Plays video well, although clunky and closed source
