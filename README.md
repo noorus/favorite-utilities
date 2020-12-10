@@ -9,6 +9,8 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 * [WinDirStat](https://windirstat.net) - Windows directory statistics, a.k.a. "what's eating up all my HDD"
 * [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) - Symlinks, hardlinks and junctions for NTFS using Explorer
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - Image mounting FOSS
+* [Terminus](https://eugeny.github.io/terminus/) - Modern terminal for Windows
+* [SSHFS-Win](https://github.com/billziss-gh/sshfs-win) - Windows port of SSHFS, mounts directories over SSH as network drives
 ## multimedia
 * [foobar2000](http://foobar2000.org/) - Plays audio well
 * [Potplayer](https://potplayer.daum.net/) - Plays video well, although clunky and closed source
@@ -20,6 +22,8 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 ## ux
 * [Classic Shell](http://www.classicshell.net) - Because Windows 10's shell sucks ass
 * [f.lux](https://justgetflux.com) - Automatic monitor color temperature adjustment to reduce eyestrain
+* [DisplayFusion](https://www.displayfusion.com/) - Partitions displays to multiple subregions, absolutely essential for ultrawide monitors
+* [Groupy](https://www.stardock.com/products/groupy/) - Lets you group any number of windows together with tabs
 ## programmer stuff
 * [WinSCP](https://winscp.net/eng/index.php) - Does SCP
 * [Hex Workshop](http://www.hexworkshop.com) :money_with_wings: - The hex editor
