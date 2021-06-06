@@ -1,9 +1,8 @@
 # favorite-utilities
 Just a bunch of stuff I gotta remember to install when setting up a new Windows box.  
-Or whenever really
 
 ## basics
-* [DisableWinTracking](https://github.com/bitlog2/DisableWinTracking) - Removes/disables almost all telemetry and Windows Store shit on Windows 10
+* [DisableWinTracking](https://github.com/bitlog2/DisableWinTracking) - Removes almost all telemetry and Windows Store shit on Windows 10
 ## tools
 * [Nomacs](https://nomacs.org) - Pretty fast image viewer with bad resampling
 * [Keypirinha](https://keypirinha.com) - A fast launcher "for keyboard ninjas on Windows"
@@ -38,3 +37,5 @@ Or whenever really
 * [Sublime Text](https://www.sublimetext.com) :money_with_wings: - The markup & script editor
 * [CFF Explorer](https://ntcore.com/?page_id=388) - Quick PE inspector with a bunch of features
 * [Cerbero Suite](https://cerbero.io/es/) :money_with_wings: - Superceded CFF Explorer I guess; Trial has essentially full CFFE functionality
+* [x64dbg](https://x64dbg.com/) - The new Ollydbg
+* [FLARE IDA Plugins](https://github.com/fireeye/flare-ida) - Some useful stuff for IDA Pro from FireEye
