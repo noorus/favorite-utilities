@@ -26,7 +26,7 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Single-command video/audio downloads from any web service with some importance
 * [ffmpeg](https://ffmpeg.zeranoe.com/builds/) - The general tool, the exacto knife and the coffeemaker for all multimedia needs
 ## ux
-* [Classic Shell](http://www.classicshell.net) - Because Windows 10's shell sucks ass
+* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/) - Because Windows 10's shell sucks ass
 * [f.lux](https://justgetflux.com) - Automatic monitor color temperature adjustment to reduce eyestrain
 * [DisplayFusion](https://www.displayfusion.com/) - Partitions displays to multiple subregions, absolutely essential for ultrawide monitors
 * [Groupy](https://www.stardock.com/products/groupy/) - Lets you group any number of windows together with tabs
