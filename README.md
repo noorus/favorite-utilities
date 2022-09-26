@@ -2,7 +2,7 @@
 Just a bunch of stuff I gotta remember to install when setting up a new Windows box.  
 
 ## basics
-* [DisableWinTracking](https://github.com/bitlog2/DisableWinTracking) - Removes almost all telemetry and Windows Store shit on Windows 10
+* [ShutUp10++](https://www.oo-software.com/en/shutup10) - Shuts down most telemetry and Windows Store shit on Windows 10/11
 ## tools
 * [Nomacs](https://nomacs.org) - Pretty fast image viewer with bad resampling
 * [Keypirinha](https://keypirinha.com) - A fast launcher "for keyboard ninjas on Windows"
@@ -12,7 +12,7 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Shell integration for fetching precise metadata on all media files
 * [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) - Symlinks, hardlinks and junctions for NTFS using Explorer
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - Image mounting FOSS
-* [Terminus](https://eugeny.github.io/terminus/) - Modern terminal for Windows
+* [Tabby](https://tabby.sh/) - Modern terminal for Windows
 * [SSHFS-Win](https://github.com/billziss-gh/sshfs-win) - Mounts directories over SSH as network drives
 ## multimedia
 * [foobar2000](http://foobar2000.org/) - Plays audio well
@@ -26,11 +26,13 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Single-command video/audio downloads from any web service with some importance
 * [ffmpeg](https://ffmpeg.zeranoe.com/builds/) - The general tool, the exacto knife and the coffeemaker for all multimedia needs
 ## ux
-* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/) - Because Windows 10's shell sucks ass
+* [Open Shell](https://open-shell.github.io/Open-Shell-Menu/) - Replacement shell for Windows 10
+* [StartAllBack](https://www.startallback.com/) :money_with_wings: - Replacement shell for Windows 11
 * [f.lux](https://justgetflux.com) - Automatic monitor color temperature adjustment to reduce eyestrain
 * [DisplayFusion](https://www.displayfusion.com/) - Partitions displays to multiple subregions, absolutely essential for ultrawide monitors
 * [Groupy](https://www.stardock.com/products/groupy/) - Lets you group any number of windows together with tabs
 * [LocaleEmulator](https://xupefei.github.io/Locale-Emulator/) - Emulates Japanese system locale to run non-Unicode JP executables
+* [SageThumbs](https://www.cherubicsoft.com/en/projects/sagethumbs/) - Proper thumbnails for most media file types
 ## programmer stuff
 * [WinSCP](https://winscp.net/eng/index.php) - Does SCP
 * [Hex Workshop](http://www.hexworkshop.com) :money_with_wings: - The hex editor
