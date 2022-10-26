@@ -25,6 +25,7 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 * [OBS Studio](https://obsproject.com/download) - Screen capture and stream broadcasting
 * [Voicemeeter](https://www.vb-audio.com/Voicemeeter/banana.htm) - Virtual audio devices for WASAPI & ASIO + custom routing
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Single-command video/audio downloads from any web service with some importance
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Alternative fork of youtube-dl, with a focus on extended features like media merging
 * [ffmpeg](https://ffmpeg.zeranoe.com/builds/) - The general tool, the exacto knife and the coffeemaker for all multimedia needs
 ## ux
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/) - Replacement shell for Windows 10
