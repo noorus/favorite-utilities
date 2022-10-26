@@ -3,7 +3,9 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 
 ## basics
 * [ShutUp10++](https://www.oo-software.com/en/shutup10) - Shuts down most telemetry and Windows Store shit on Windows 10/11
+* [StartAllBack](https://www.startallback.com/) :money_with_wings: - Replacement shell for Windows 11
 ## tools
+* [Tabby](https://tabby.sh/) - Modern terminal for Windows
 * [Nomacs](https://nomacs.org) - Pretty fast image viewer with bad resampling
 * [Keypirinha](https://keypirinha.com) - A fast launcher "for keyboard ninjas on Windows"
 * [Everything](https://www.voidtools.com) - Fast file and folder search to replace the dogshit Windows search
@@ -12,7 +14,6 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Shell integration for fetching precise metadata on all media files
 * [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) - Symlinks, hardlinks and junctions for NTFS using Explorer
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - Image mounting FOSS
-* [Tabby](https://tabby.sh/) - Modern terminal for Windows
 * [SSHFS-Win](https://github.com/billziss-gh/sshfs-win) - Mounts directories over SSH as network drives
 ## multimedia
 * [foobar2000](http://foobar2000.org/) - Plays audio well
@@ -20,19 +21,18 @@ Just a bunch of stuff I gotta remember to install when setting up a new Windows 
 * [DiscoGS Tagger](https://www.foobar2000.org/components/view/foo_discogs) - Tags audio well
 * [Potplayer](https://potplayer.daum.net/) - Plays video well, though clunky and closed source
 * [MPC-HC](https://github.com/clsid2/mpc-hc) - Plays video almost as well; madVR renderer recommended
+* [mpv](https://mpv.io/) - Probably the leanest and meanest video player, very user-unfriendly
 * [OBS Studio](https://obsproject.com/download) - Screen capture and stream broadcasting
 * [Voicemeeter](https://www.vb-audio.com/Voicemeeter/banana.htm) - Virtual audio devices for WASAPI & ASIO + custom routing
-* [Twitch Leecher](https://github.com/Franiac/TwitchLeecher) - Systematic Twitch VOD downloader
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Single-command video/audio downloads from any web service with some importance
 * [ffmpeg](https://ffmpeg.zeranoe.com/builds/) - The general tool, the exacto knife and the coffeemaker for all multimedia needs
 ## ux
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/) - Replacement shell for Windows 10
-* [StartAllBack](https://www.startallback.com/) :money_with_wings: - Replacement shell for Windows 11
 * [f.lux](https://justgetflux.com) - Automatic monitor color temperature adjustment to reduce eyestrain
-* [DisplayFusion](https://www.displayfusion.com/) - Partitions displays to multiple subregions, absolutely essential for ultrawide monitors
-* [Groupy](https://www.stardock.com/products/groupy/) - Lets you group any number of windows together with tabs
+* [DisplayFusion](https://www.displayfusion.com/) :money_with_wings: - Partitions displays to multiple subregions, absolutely essential for ultrawide monitors
+* [Groupy](https://www.stardock.com/products/groupy/) :money_with_wings: - Lets you group any number of windows together with tabs
 * [LocaleEmulator](https://xupefei.github.io/Locale-Emulator/) - Emulates Japanese system locale to run non-Unicode JP executables
-* [SageThumbs](https://www.cherubicsoft.com/en/projects/sagethumbs/) - Proper thumbnails for most media file types
+* [SageThumbs](https://www.cherubicsoft.com/en/projects/sagethumbs/) - Proper thumbnails in explorer for most media file types
 ## programmer stuff
 * [WinSCP](https://winscp.net/eng/index.php) - Does SCP
 * [Hex Workshop](http://www.hexworkshop.com) :money_with_wings: - The hex editor
